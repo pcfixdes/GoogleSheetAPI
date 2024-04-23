@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bold-momentum-107913",
+  "private_key_id": "4e2fe492ce70afc4ff946b33005301c751be7bb6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAEJVTRuhNkdfY\n1ZRg9bjhivk1iQAMJb2+/QPerZTH6EK6WdpKQ9DOP8UEgi2iGlXmPI9TR0UXpF2y\n/ZxPwU84H2872V6db4KwE4PDWtwBHZqdj+h232sFlP0kYdamL6kwKuK5xYprbf0n\nzGr+eU2ROTorHB2yoFop6f6C4VsLREGJzIENKPnUqmKDFYP1uRC1SQpDnkYiJdJ+\njf9SD7rYk6Uqj4BifFTo+Q1an0N1zfrfNirSMFsCxc6fSJ6Wj5WQ0tlrLavO7PzB\nNxMHftJt93PRcXMwZPbUcIiINoblxu19gsiCQGnjn5Oif7r4Rh0TyoAdiz6R6yKB\nKgj6l8L3AgMBAAECggEAB3TdXJVP0YB3ASERmKNm4RgUeBfwhjLfkfmgBoDLWj4n\nJmBJ/EDJFijITQDXerKhC8Y6yOs8ayA4zwkk4hJ0MTlEh+32zA/sjUoZ/yHuO/uF\nPta7xK8Efaanc/EkdIvnJUqU8My9hKbe1tu1z66v7JJsiAiYZ+XtJNwZGHBdU4Dq\ngW+sky9ByDAY4syQTDi3pyLp8svBj3GuZCshAjzYA11qz2kli6lUlRr5KNsFlq2B\nWp58Fp6m9wokxIHkHwqNKQBuDm4FBRUZIH2qMrIM2ImSLx+fCokW2uuMUlw2ou0A\nY4fGlNfqHtuxrtdiMR8dhIBsuHAquc8vvL0RKNd3sQKBgQD9tJdv6htkA5HYR7qL\ndwQaDJG3XZtfxcBBBN/y/lJqCsD3odSSAsKpyM1ONzeQkn/qs4naBGtdWqnafg1U\nO1nTrC98OBakEsufqjJbYFTU0XD4/tlqrPMpter+0K9rs8ZIefpS5yc2MLVbov+V\nce2w7OSourxzRlcIYH59iOnmOQKBgQDBzUYrpYj6HpUHGz9Kpw1iQ/nsRB3lZtYj\n632zg3rRIplGloTWevACjOoElJRcbBDaIJ8hgP4Dwhc15oo155F/qnTXF8grV7Q1\nQP8DeyLtOBGgNyDr0ntanhhpoTRMwFfYxwNMy0+BKY89vxD2fIVvG7w7LVM4s1J6\nqMF9O55yrwKBgQDvdKP6XVu86iGdoRXQzGRysapXB2K+4kazF4bIMoJW1A+NqpCX\nv0M8POqKCFPJgHx7aTmTLNipJAlsz8yE0//UaY/oDohQE+1cpach16o5s/SNDvzm\nUpavp6RFHXJ0lRlxDq/Vz5aS7yY9d3sD8qQFeZHYL2fu5VT/8xNwKOmbAQKBgHyj\n7Z5Cjy71njj80B7OA3CQcVr/kA6qrcxaNvTN+Z4pV1Srl3FtjZDGWfdqK2SpZ8kx\ns8ZTdIqsOEtFItx6OvxVf2GafPVLKa4aSChP+G2CYuucqQKh0w27oc3FjKJUDetw\nSvIHy/Ew7lvy1xD/kr2bo9qXUu+jfMdAY3iMcGInAoGARFjzmdl1drPPSOIA93Ml\nyva4JRplCZpGp0nR+ktfPPtpgePNzVKqfwckQUvThLxZ9UmB2GuF+yGVmPnEgNJy\nGHcdiUKhPrapnkyGQTpQxlh9B6soxBIrgexU0L7QOeogXQCK5DO0fA5+Vn2QVauL\njorzobGtzCZdE/5S5s1GIGU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheet@bold-momentum-107913.iam.gserviceaccount.com",
+  "client_id": "108694467715257876099",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheet%40bold-momentum-107913.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
